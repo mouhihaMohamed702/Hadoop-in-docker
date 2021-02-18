@@ -11,7 +11,12 @@
 
 ###  Objective :  
 
-*  
+*  The purpose of docker-hadoop is to provide a full, standard, hadoop cluster that can be used for development or testing purposes.
+
+Currently, it provides support for the following Hadoop distributions:
+
+Apache Hadoop:
+versions 3.*
 
   
 
