@@ -96,7 +96,9 @@ Run this cmd sudo docker-compose up
 
 ![HBASE](https://user-images.githubusercontent.com/59533527/108104858-1da4bd00-708c-11eb-8263-b297e9cf4604.jpg) 
 
- 
+ ### Contributing 💡
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
 
  
 
