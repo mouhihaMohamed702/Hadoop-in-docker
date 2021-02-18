@@ -60,7 +60,7 @@ versions 3.*
 
 --- 
 
-## Run this cmd `Sudo docker images `
+#### Run this cmd `Sudo docker images `
 
 
 
@@ -75,31 +75,31 @@ versions 3.*
 
   
 
-## Run this cmd `sudo docker-compose up  `
+#### Run this cmd `sudo docker-compose up  `
 
 ![compose-up](https://user-images.githubusercontent.com/59533527/108103291-05cc3980-708a-11eb-9f52-3e6a23445fd5.jpg)  
 
   
 
-## Go to http://localhost:50070 to view the current status of the system from the namenode: 
+#### Go to http://localhost:50070 to view the current status of the system from the namenode: 
 
 ![namenode](https://user-images.githubusercontent.com/59533527/108104021-0c0ee580-708b-11eb-8e2e-e6b3665f5721.jpg) 
 
   
 
-## Go to http://localhost:8080 to view the current status of the system from the Spark Master: 
+#### Go to http://localhost:8080 to view the current status of the system from the Spark Master: 
 
 ![sparkmaster](https://user-images.githubusercontent.com/59533527/108104660-e0402f80-708b-11eb-9db4-1d6dc38639c4.jpg) 
 
  
 
-## Go to http://localhost:8081 to view the current status of the system from the Spark Worker: 
+#### Go to http://localhost:8081 to view the current status of the system from the Spark Worker: 
 
 ![spark worker](https://user-images.githubusercontent.com/59533527/108104742-f77f1d00-708b-11eb-89c2-7cbb38f24d34.jpg) 
 
  
 
-## Go to http://localhost:18630 to view the current status of the system from the StreamSet: 
+#### Go to http://localhost:18630 to view the current status of the system from the StreamSet: 
 
 ![streamSET](https://user-images.githubusercontent.com/59533527/108104811-0c5bb080-708c-11eb-8ac4-4406e300c27a.jpg) 
 
@@ -109,7 +109,7 @@ versions 3.*
 
  
 
-# Go to http://localhost:16010 to view the current status of the system from the Hbase: 
+#### Go to http://localhost:16010 to view the current status of the system from the Hbase: 
 
 ![HBASE](https://user-images.githubusercontent.com/59533527/108104858-1da4bd00-708c-11eb-8263-b297e9cf4604.jpg) 
 
