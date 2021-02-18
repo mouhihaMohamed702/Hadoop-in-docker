@@ -44,7 +44,7 @@
 
 --- 
 
-* Run this cmd  Sudo docker images 
+* Run this cmd `Sudo docker images  ` 
 
 
 
@@ -58,7 +58,7 @@
 
   
 
-* Run this cmd sudo docker-compose up 
+* Run this cmd `sudo docker-compose up  `
 
 ![compose-up](https://user-images.githubusercontent.com/59533527/108103291-05cc3980-708a-11eb-9f52-3e6a23445fd5.jpg)  
 
