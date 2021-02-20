@@ -11,7 +11,7 @@
 
 ## What is Docker?
 
-The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.
+The Apache Hadoop project develops open-source software for reliable, scalable, distributed computing.
 
 The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
 ## What is a Docker Image?
@@ -19,6 +19,16 @@ The Apache Hadoop software library is a framework that allows for the distribute
 Docker images are the basis of containers. Images are read-only, while containers are writeable. Only the containers can be executed by the operating system.
 
 https://docs.docker.com/terms/image/
+## What Is a Hadoop Cluster?
+A Hadoop cluster is a collection of computers, known as nodes, that are networked together to perform these kinds of parallel computations on big data sets. Unlike other computer clusters, Hadoop clusters are designed specifically to store and analyze mass amounts of structured and unstructured data in a distributed computing environment.
+## What is Hadoop Architecture?
+Hadoop has a master-slave topology. In this topology, we have one master node and multiple slave nodes. Master node’s function is to assign a task to various slave nodes and manage resources. The slave nodes do the actual computing. Slave nodes store the real data whereas on master we have metadata. This means it stores data about data.
+
+
+Hadoop Architecture comprises three major layers. They are:
+* HDFS (Hadoop Distributed File System)
+* Yarn
+* MapReduce
 ##  Objective :  
 
 *  The purpose of docker-hadoop is to provide a full, standard, hadoop cluster that can be used for development or testing purposes.
