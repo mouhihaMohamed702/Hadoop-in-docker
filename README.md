@@ -21,6 +21,7 @@ Hadoop Architecture comprises three major layers. They are:
 * HDFS (Hadoop Distributed File System)
 * Yarn
 * MapReduce
+![cc](https://user-images.githubusercontent.com/59533527/108633284-70da8f00-7441-11eb-9371-fabe6890c638.jpeg)
 ##  Objective :  
 *  The purpose of docker-hadoop is to provide a full, standard, hadoop cluster that can be used for development or testing purposes.
 Currently, it provides support for the following Hadoop distributions:
